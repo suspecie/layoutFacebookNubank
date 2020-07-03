@@ -11,10 +11,4 @@ Tentem replicar no Android Studio em um novo projeto estas duas telas:
 
 ### MINHA RESOLUÇÃO
 
-#### Facebook 
-
-![](img/facebook-suspecie.png)
-
-#### Nubank 
-
-![](img/nubank-suspecie.png)
+![](img/layoutDev.png)
